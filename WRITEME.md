@@ -11,3 +11,11 @@ http://phdcomics.com/comics/archive.php?comicid=1121
 
 ![Abstrackt](/img/phd011409s.gif)
 
+# Book Authoring
+
+## Book Authoring using Git and Github
+https://gist.github.com/matthewmccullough/9381765#file-book-authoring-using-git-and-github-md
+
+## Awesome Technical Writing
+https://github.com/BolajiAyodeji/awesome-technical-writing
+
