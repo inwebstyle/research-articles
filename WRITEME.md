@@ -5,3 +5,9 @@ http://pages.stern.nyu.edu/~wstarbuc/Writing/Fussy.htm
 
 ## Clinical Chemistry Guide to Scientific Writing
 https://www.aacc.org/science-and-research/clinical-chemistry/clinical-chemistry%C2%A0guide-to-scientific-writing
+
+## A very clear understanding of an Abstract
+http://phdcomics.com/comics/archive.php?comicid=1121
+
+![Abstrackt](/img/phd011409s.gif)
+
